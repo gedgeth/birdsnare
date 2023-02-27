@@ -1,0 +1,23 @@
+{
+  "name": "birdsnare",
+  "version": "1.0.0",
+  "description": "tweet to image app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/gedgeth/birdsnare.git"
+  },
+  "author": "gedgeth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gedgeth/birdsnare/issues"
+  },
+  "homepage": "https://github.com/gedgeth/birdsnare#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^19.7.2"
+  }
+}
